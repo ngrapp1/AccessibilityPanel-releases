@@ -10,7 +10,7 @@ Get **`AccessibilityPanel-win-Setup.exe`** from the [latest release](https://git
 - Adds Start menu and desktop shortcuts and an entry in Settings → Apps for uninstalling.
 - Keeps itself up to date: new versions download in the background and are applied when you next close the panel.
 
-Prefer no install? Download **`AccessibilityPanel-win-Portable.zip`**, unzip it anywhere and run `AccessibilityPanel.exe`. It updates itself the same way.
+Prefer no install? Download **`AccessibilityPanel-win-Portable.zip`**, unzip it anywhere and run `AccessibilityPanel.exe`.
 
 Your profiles and settings live in `%APPDATA%\AccessibilityPanel` and are kept across updates and uninstalls.
 
